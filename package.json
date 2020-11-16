@@ -1,0 +1,21 @@
+{
+  "name": "sorting-algorithms",
+  "version": "1.0.0",
+  "description": "Repo to study sorting algorithms",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielorkae/sorting-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielorkae/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/danielorkae/sorting-algorithms#readme"
+}
